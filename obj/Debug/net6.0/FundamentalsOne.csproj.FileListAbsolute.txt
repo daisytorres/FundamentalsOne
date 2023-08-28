@@ -1,0 +1,15 @@
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_essentials/FundamentalsOne/bin/Debug/net6.0/FundamentalsOne
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_essentials/FundamentalsOne/bin/Debug/net6.0/FundamentalsOne.deps.json
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_essentials/FundamentalsOne/bin/Debug/net6.0/FundamentalsOne.runtimeconfig.json
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_essentials/FundamentalsOne/bin/Debug/net6.0/FundamentalsOne.dll
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_essentials/FundamentalsOne/bin/Debug/net6.0/FundamentalsOne.pdb
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_essentials/FundamentalsOne/obj/Debug/net6.0/FundamentalsOne.csproj.AssemblyReference.cache
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_essentials/FundamentalsOne/obj/Debug/net6.0/FundamentalsOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_essentials/FundamentalsOne/obj/Debug/net6.0/FundamentalsOne.AssemblyInfoInputs.cache
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_essentials/FundamentalsOne/obj/Debug/net6.0/FundamentalsOne.AssemblyInfo.cs
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_essentials/FundamentalsOne/obj/Debug/net6.0/FundamentalsOne.csproj.CoreCompileInputs.cache
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_essentials/FundamentalsOne/obj/Debug/net6.0/FundamentalsOne.dll
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_essentials/FundamentalsOne/obj/Debug/net6.0/refint/FundamentalsOne.dll
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_essentials/FundamentalsOne/obj/Debug/net6.0/FundamentalsOne.pdb
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_essentials/FundamentalsOne/obj/Debug/net6.0/FundamentalsOne.genruntimeconfig.cache
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_essentials/FundamentalsOne/obj/Debug/net6.0/ref/FundamentalsOne.dll
